@@ -1,0 +1,14 @@
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.AssemblyInfoInputs.cache
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.AssemblyInfo.cs
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.csproj.CoreCompileInputs.cache
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\bin\Debug\net9.0\ConsoleTutorial.exe
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\bin\Debug\net9.0\ConsoleTutorial.deps.json
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\bin\Debug\net9.0\ConsoleTutorial.runtimeconfig.json
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\bin\Debug\net9.0\ConsoleTutorial.dll
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\bin\Debug\net9.0\ConsoleTutorial.pdb
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.dll
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\refint\ConsoleTutorial.dll
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.pdb
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ConsoleTutorial.genruntimeconfig.cache
+C:\Users\tanui\OneDrive\Desktop\ConsoleTutorial\ConsoleTutorial\obj\Debug\net9.0\ref\ConsoleTutorial.dll
